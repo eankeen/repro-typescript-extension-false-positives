@@ -1,0 +1,1 @@
+export const string2 = 'bar2'

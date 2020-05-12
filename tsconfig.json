@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "lib": [
+      "ESNext",
+      "DOM"
+    ],
+    "module": "ESNext",
+    // "rootDir": ".",
+    "target": "ESNext",
+    "strict": true,
+    // "baseUrl": ".",
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "typeRoots": [
+      "./node_modules/@types"
+    ],
+    "types": [
+      "node"
+    ],
+    // "listFiles": true,
+  }
+}

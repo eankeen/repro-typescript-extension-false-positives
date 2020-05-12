@@ -1,0 +1,9 @@
+{
+  "name": "repro-typescript-extension-false-positives",
+  "version": "1.0.0",
+  "author": "Edwin Kofler",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^13.13.5"
+  }
+}
